@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from the Philippines 🇵🇭</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpdWVxbnpiem1lNDkwM3c1cHp5YTNmNmkzN3IwbWlmdDJueTFieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="400" alt="programming gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXVpdWVxbnpiem1lNDkwM3c1cHp5YTNmNmkzN3IwbWlmdDJueTFieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" height="300" width="550" alt="programming gif"/>
 </p>
 
 
